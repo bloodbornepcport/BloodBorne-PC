@@ -1,0 +1,2 @@
+<!-- Community frame-time unlock preset -->
+<patches game="CUSA03173" version="1.09"><patch name="UnlockedFPS" enabled="true"/></patches>

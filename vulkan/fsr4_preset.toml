@@ -1,0 +1,5 @@
+[upscaler]
+mode = "fsr4_balanced"
+halton_jitter = true
+native_ui_pass = true
+copy_gpu_buffers = true
